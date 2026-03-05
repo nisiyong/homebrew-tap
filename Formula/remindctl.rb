@@ -3,7 +3,7 @@ class Remindctl < Formula
   homepage "https://github.com/nisiyong/remindctl"
   url "https://github.com/nisiyong/remindctl/releases/download/v0.1.1/remindctl-macos.zip"
   version "0.1.1"
-  sha256 "9514244e694035c80cd20ba916026577b0c44b5c0e53572f843c91f5c82532bf"
+  sha256 "9a45fb62dbb8a2fe315fc10551b56b634bd725311920c990c5fa6ec1bbf63c23"
   license "MIT"
 
   depends_on macos: :sonoma
